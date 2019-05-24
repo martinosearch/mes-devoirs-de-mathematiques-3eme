@@ -21,20 +21,36 @@
 \begin{td}{\matiere}{\classe}{24 mai 2019}{\prof}
 \end{td}
 
+\begin{td}{\matiere}{\classe}{24 mai 2019}{\prof}
+
+\end{td}
+
+\begin{td}{\matiere}{\classe}{24 mai 2019}{\prof}
+
+\end{td}
+
+\begin{td}{\matiere}{\classe}{24 mai 2019}{\prof}
+
+\end{td}
+
+\begin{td}{\matiere}{\classe}{24 mai 2019}{\prof}
+
+\end{td}
+
 \newpage
-\textbf{\underline{CONTROLE DE \matiere}} \\
+\textbf{\underline{CONTROLE DE \matiere}}  \qquad \qquad  \qquad \qquad \emph{Durée: 1h} \qquad \qquad \emph{Noté sur: 10} \\
 \par
-\underline{Exercice 1}\\
+\underline{Exercice 1} \emph{(4pts)}\\
 On a relevé les âges des élèves d'une classe de 3ème:\\
 13 \quad 16 \quad 14 \quad 15 \quad 13 \quad 15 \quad 16 \quad 14 \quad 14 \quad 15 \quad 16 \quad 14 \quad 15 \quad 15 \quad 14 \quad 17 \quad 14 \quad 15 \quad 13 \quad 14 \quad 15 \quad 16 \quad 15 \quad 16 \quad 14 \quad 15 \quad 13 \quad 14 \quad 15 \quad 17 \quad 16 \quad 15 \quad 16 \quad 15 \quad 15 \quad 14 \quad 15 \quad 13 \quad 14 \quad 16.
 \begin{enumerate}
-\item Établissez le tableau des effectifs des âges de ces élèves.
-\item Quel est le mode de cette série statistique?
-\item Construisez le diagramme en bâton de cette série.
-\item Calculez l'âge moyen des élèves de cette série.
+\item Établissez le tableau des effectifs des âges de ces élèves. \emph{(1,5pt)}
+\item Quel est le mode de cette série statistique? \emph{(0,5pt)}
+\item Construisez le diagramme en bâton de cette série. \emph{(1pt)}
+\item Calculez l'âge moyen des élèves de cette série. \emph{(1pt)}
 \end{enumerate}
 \vspace{0,5cm}
-\underline{Exercice 2}\\
+\underline{Exercice 2} \emph{(6pts)} \\
 Dans le plan muni d'un repère orthonormé (O, I, J), on considère les points A, B et C tel que: $\overrightarrow{OA}=7\overrightarrow{OI}+\overrightarrow{OJ}$ ; $\overrightarrow{OB}=8\overrightarrow{OI}+4\overrightarrow{OJ}$ et $\overrightarrow{CO}=\overrightarrow{OI}-7\overrightarrow{OJ}$.
 \begin{enumerate}
 \item Place les points A, B et C dans le repère. \emph{(0,5pt)}
@@ -42,7 +58,7 @@ Dans le plan muni d'un repère orthonormé (O, I, J), on considère les points A
 \item Montre que les vecteurs $\overrightarrow{AB}$ et $\overrightarrow{BC}$ sont orthogonaux. \emph{(1pt)}.
 \item Donne en justifie la nature du triangle ABC. \emph{(0,5pt)}
 \end{enumerate}
-\item Soient le point M milieu du segment [AC] et le point D symétrique
+\item Soient le point M milieu du segment [AC] et le point D symétrique de B par rapport à M.
 \begin{enumerate}
 \item Détermine les coordonnées de M et de D. \emph{(1pt)}
 \item Précise la nature du quadrilatère ABCD. Justifie. \emph{(1pt)}
@@ -58,17 +74,17 @@ Dans le plan muni d'un repère orthonormé (O, I, J), on considère les points A
 
 \textbf{\underline{CONTROLE DE \matiere}} \qquad \qquad  \qquad \qquad \emph{Durée: 1h} \qquad \qquad \emph{Noté sur: 10} \\
 \par
-\underline{Exercice 1}\\
+\underline{Exercice 1} \emph{(4pts)}\\
 On a relevé les âges des élèves d'une classe de 3ème:\\
 13 \quad 16 \quad 14 \quad 15 \quad 13 \quad 15 \quad 16 \quad 14 \quad 14 \quad 15 \quad 16 \quad 14 \quad 15 \quad 15 \quad 14 \quad 17 \quad 14 \quad 15 \quad 13 \quad 14 \quad 15 \quad 16 \quad 15 \quad 16 \quad 14 \quad 15 \quad 13 \quad 14 \quad 15 \quad 17 \quad 16 \quad 15 \quad 16 \quad 15 \quad 15 \quad 14 \quad 15 \quad 13 \quad 14 \quad 16.
 \begin{enumerate}
-\item Établissez le tableau des effectifs des âges de ces élèves.
-\item Quel est le mode de cette série statistique?
-\item Construisez le diagramme en bâton de cette série.
-\item Calculez l'âge moyen des élèves de cette série.
+\item Établissez le tableau des effectifs des âges de ces élèves. \emph{(1,5pt)}
+\item Quel est le mode de cette série statistique? \emph{(0,5pt)}
+\item Construisez le diagramme en bâton de cette série. \emph{(1pt)}
+\item Calculez l'âge moyen des élèves de cette série. \emph{(1pt)}
 \end{enumerate}
 \vspace{0,5cm}
-\underline{Exercice 2}
+\underline{Exercice 2} \emph{(6pts)} \\
 Dans le plan muni d'un repère orthonormé (O, I, J), on considère les points A, B et C tel que: $\overrightarrow{OA}=7\overrightarrow{OI}+\overrightarrow{OJ}$ ; $\overrightarrow{OB}=8\overrightarrow{OI}+4\overrightarrow{OJ}$ et $\overrightarrow{CO}=\overrightarrow{OI}-7\overrightarrow{OJ}$.
 \begin{enumerate}
 \item Place les points A, B et C dans le repère. \emph{(0,5pt)}
@@ -76,7 +92,7 @@ Dans le plan muni d'un repère orthonormé (O, I, J), on considère les points A
 \item Montre que les vecteurs $\overrightarrow{AB}$ et $\overrightarrow{BC}$ sont orthogonaux. \emph{(1pt)}.
 \item Donne en justifie la nature du triangle ABC. \emph{(0,5pt)}
 \end{enumerate}
-\item Soient le point M milieu du segment [AC] et le point D symétrique
+\item Soient le point M milieu du segment [AC] et le point D symétrique de B par rapport à M.
 \begin{enumerate}
 \item Détermine les coordonnées de M et de D. \emph{(1pt)}
 \item Précise la nature du quadrilatère ABCD. Justifie. \emph{(1pt)}
@@ -86,5 +102,42 @@ Dans le plan muni d'un repère orthonormé (O, I, J), on considère les points A
 \item Précise son centre, calcule son rayon et montre qu'il passe par le point O. \emph{(1,5pt)}
 \end{enumerate}
 \end{enumerate}
+
+\newpage
+
+
+\begin{td}{\matiere}{\classe}{25 mai 2019}{\prof}
+\begin{exo}
+Le plan est muni d'un repère orthonormé (O, I, J). L'unité de longueur est le centimètre.
+\begin{enumerate}
+\item \begin{enumerate}
+\item Place dans le repère les points A(0;4), B(6;1) et C(2;-3).
+\item Construis H le projeté orthogonal du point C sur la droite (AB).
+\end{enumerate}
+\item On se propose de déterminer les coordonnées du point H; pour cela:
+\begin{enumerate}
+\item Détermine une équation cartésienne de la droite (AB).
+\item Détermine le coefficient directeur et une équation cartésienne de la droite (CH).
+\item Déduis- en les coordonnées de H.
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\begin{exo}
+Soient $f$ et $g$ deux applications définies sur $\mathbb{R}$ par:\\
+$f(x)=(9x^2-25)(4x-1)+(16x^2-8x+1)(6x-10)$ et $g(x)=(3x-5)[(5x-1)^2-4(3x+2)^2]$
+\begin{enumerate}
+\item Mettre $f(x)$ et $g(x)$ sous la forme de produit de facteurs du premier degré.
+\item On pose $Q(x)=\frac{f(x)}{g(x)}$\\
+Quelle est la condition d'existence d'une valeur numérique de Q? Simplifie Q.
+\item On définit dans $\mathbb{R}$ la fraction rationnelle $S(x)=\frac{1-4x}{x+5}$
+\begin{enumerate}
+\item Calcule $S(\sqrt{3}$ et rend rationnelle le dénominateur.
+\item Résoudre dans $\mathbb{R}$ l'équation $S(x)=1$
+\end{enumerate}
+\end{enumerate}
+\end{exo}
+
+\end{td}
 
 \end{document}
